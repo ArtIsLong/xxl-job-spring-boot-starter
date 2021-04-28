@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github</groupId>
-    <artifactId>xxl-job-sprng-boot-starter</artifactId>
+    <artifactId>xxl-job-spring-boot-starter</artifactId>
     <version>1.0</version>
 
     <properties>
